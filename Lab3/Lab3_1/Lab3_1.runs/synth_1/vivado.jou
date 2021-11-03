@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Sep 15 13:18:06 2021
+# Process ID: 23084
+# Current directory: C:/Users/tomjamf/Lab3_1/Lab3_1.runs/synth_1
+# Command line: vivado.exe -log Lab3_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Lab3_1.tcl
+# Log file: C:/Users/tomjamf/Lab3_1/Lab3_1.runs/synth_1/Lab3_1.vds
+# Journal file: C:/Users/tomjamf/Lab3_1/Lab3_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Lab3_1.tcl -notrace

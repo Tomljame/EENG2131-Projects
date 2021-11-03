@@ -1,0 +1,1 @@
+-wto "9e02036927004c218b6dc16b841ccceb" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "DigitController_behav" "xil_defaultlib.DigitController" "xil_defaultlib.glbl" -log "elaborate.log" 
